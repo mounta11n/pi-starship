@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# npm (in case anyone runs npm install locally)
+node_modules/
