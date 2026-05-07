@@ -2,9 +2,7 @@
 
 A [pi](https://github.com/badlogic/pi-mono) extension that replaces the default footer with your [Starship](https://starship.rs) prompt — so colours, icons, and segments match your terminal exactly — and adds pi-specific context on the right: model, token counts, cost, and thinking level.
 
-```
-your-project on feature/your-feature [!?] via 🐍 v3.11.15 (venv) PR #42        anthropic → Claude Haiku 4.5 ◆ medium ↑12k ↓4.2k $0.043
-```
+![pi-starship footer screenshot](screenshots/screenshot.png)
 
 ## Features
 
