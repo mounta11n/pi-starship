@@ -1,6 +1,6 @@
 {
   "name": "pi-starship",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Starship-powered footer for pi — with PR number, model info, token counts, and thinking level",
   "keywords": [
     "pi",
